@@ -1,0 +1,8 @@
+#python
+**/**/__pycache__
+
+.venv/
+.pytest_cache/
+python.egg-info/
+.vscode/
+.DS_Store
