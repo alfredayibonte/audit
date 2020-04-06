@@ -2,7 +2,7 @@
 import asyncio
 import json
 
-from src.estimator import estimator
+import estimator
 import test_utils
 
 cases = [
